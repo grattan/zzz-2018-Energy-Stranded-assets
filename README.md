@@ -2,7 +2,7 @@
 Down to the wire: A sustainable electricity network for Australia. Report 2018-06
 
 
-by (Tony Wood)[https://grattan.edu.au/people/bio/tony-wood/], (David Blowers)[https://grattan.edu.au/?post_type=people&p=2000] and (Kate Griffiths)https://grattan.edu.au/people/bio/kate-griffiths/]
+by [Tony Wood](https://grattan.edu.au/people/bio/tony-wood/), [David Blowers](https://grattan.edu.au/?post_type=people&p=2000) and [Kate Griffiths](https://grattan.edu.au/people/bio/kate-griffiths/)
 
 
 State governments have spent up to $20 billion more than was needed on the electricity grid, and households and businesses are paying for it through their power bills.
